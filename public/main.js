@@ -263,7 +263,7 @@ $(function() {
   });
 
   socket.on('disconnect', () => {
-    log('ur disconnected rn 🥶');
+    log('ur disconnected rn 🥶 refresh the page!1!!');
   });
 
   socket.on('reconnect', () => {
